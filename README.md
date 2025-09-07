@@ -22,6 +22,16 @@ TODO: Authors
 TODO
 ```
 
+## Table of Contents
+
+- [Highlights](#highlights)
+- [Taxonomy of LLM-MAS Systems](#taxonomy-of-llm-mas-systems)
+- [Learning Paradigms](#learning-paradigms)
+  - [Paradigm I: Prompting LLM-MAS](#paradigm-i-prompting-llm-mas)
+  - [Paradigm II: Supervised Fine-Tuning for LLM-MAS](#paradigm-ii-supervised-fine-tuning-for-llm-mas)
+  - [Paradigm III: Multi-Agent Reinforcement Learning for LLM-MAS](#paradigm-iii-multi-agent-reinforcement-learning-for-llm-mas)
+
+
 ## ✨ Highlights
 
 - **Hierarchy of Emergent Intelligence.** From single-agent perception/reasoning and tool use, to collaborative roles/communication/coordination, to **evolutionary** structures with meta-reasoning and continuous co-evolution.  
