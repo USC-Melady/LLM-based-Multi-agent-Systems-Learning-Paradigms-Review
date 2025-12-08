@@ -12,14 +12,18 @@ We chart the shift from prompt-assembled LLM teams to **learning-driven** multi-
 
 ## Survey paper
 
-[**Survey on Learning Paradigms for LLM-based Multi-Agent Systems: Toward Evolutionary Intelligence**](https://arxiv.org/abs/XXXX.XXXX)
+[**Toward Evolutionary Intelligence: A Survey on LLM-based Agentic Systems with Multi-Agent Reinforcement Learning**](https://ssrn.com/abstract=5819182)
 
-TODO: Authors
+Wei Yang, Muyan Weng, Jiacheng Pang, Defu Cao, Heng Ping, Peiyu Zhang, Shixuan Li, Yue Zhao, Qiang Yang, Mengdi Wang, Yan Liu
 
 #### If you find this repository helpful for your work, please kindly cite our survey paper.
 
 ```bibtex
-TODO
+@article{yang5819182toward,
+  title={Toward Evolutionary Intelligence: LLM-based Agentic Systems with Multi-Agent Reinforcement Learning},
+  author={Yang, Wei and Weng, Muyan and Pang, Jiacheng and Cao, Defu and Ping, Heng and Zhang, Peiyu and Li, Shixuan and Zhao, Yue and Yang, Qiang and Wang, Mengdi and others},
+  journal={Available at SSRN 5819182}
+}
 ```
 
 ## Table of Contents
