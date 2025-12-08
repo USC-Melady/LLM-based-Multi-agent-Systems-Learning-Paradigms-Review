@@ -22,7 +22,8 @@ Wei Yang, Muyan Weng, Jiacheng Pang, Defu Cao, Heng Ping, Peiyu Zhang, Shixuan L
 @article{yang5819182toward,
   title={Toward Evolutionary Intelligence: LLM-based Agentic Systems with Multi-Agent Reinforcement Learning},
   author={Yang, Wei and Weng, Muyan and Pang, Jiacheng and Cao, Defu and Ping, Heng and Zhang, Peiyu and Li, Shixuan and Zhao, Yue and Yang, Qiang and Wang, Mengdi and others},
-  journal={Available at SSRN 5819182}
+  journal={Available at SSRN 5819182},
+  year={2025}
 }
 ```
 
