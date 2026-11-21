@@ -641,6 +641,9 @@ learning-reasoning coupling.
 
 #### Reward Shaping & Credit Assignment
 
+* MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation
+[\[paper\]](https://arxiv.org/abs/2610.23234)
+
 * LERO: LLM-driven Evolutionary framework with Hybrid Rewards and Enhanced Observation for Multi-Agent Reinforcement Learning
 [\[paper\]](https://arxiv.org/abs/2503.21807)
 
